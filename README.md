@@ -4,5 +4,5 @@
 
 环境要求：Nginx + PHP7.3 + MySQL5.6
 
-下载地址：https://mega-file.org/
+下载地址：https://mega-file.org/DW2qw
 Telegram:@iGod5
